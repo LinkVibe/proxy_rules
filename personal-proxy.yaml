@@ -1,3 +1,4 @@
 payload:
   # ----- PickPack -----
   - DOMAIN-SUFFIX,access.pickpackapp.com
+  - DOMAIN-SUFFIX,user.pickpackapp.com
