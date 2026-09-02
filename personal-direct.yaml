@@ -18,7 +18,7 @@ payload:
   - DOMAIN-SUFFIX,47258.xyz
   - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
-
+  - DOMAIN-SUFFIX,cloudflare.com
   # ----- Hugging Face 下载 -----
   - DOMAIN-SUFFIX,xethub.hf.co
 
