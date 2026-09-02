@@ -1,0 +1,30 @@
+# NAME: Personal Direct
+# AUTHOR: local
+# TYPE: classical
+# FORMAT: yaml
+# BEHAVIOR: classical
+# UPDATED: 2026-09-02
+# TOTAL: 10
+
+payload:
+  # ----- 学术期刊 -----
+  - DOMAIN-SUFFIX,mdpi.com
+
+  # ----- 系统 / 推送 -----
+  - DOMAIN-SUFFIX,service.signalr.net
+
+  # ----- 节点 DNS（须直连，避免解析节点域名时套娃）-----
+  - DOMAIN-SUFFIX,47258.xyz
+  - DOMAIN-SUFFIX,cloudflare-gateway.com
+  - DOMAIN-SUFFIX,cloudflare-ech.com
+
+  # ----- Hugging Face 下载 -----
+  - DOMAIN-SUFFIX,xethub.hf.co
+
+  # ----- GitHub 代理下载 -----
+  - DOMAIN-SUFFIX,gitwarp.com
+  - DOMAIN-SUFFIX,gitwarp.top
+
+  # ----- AI API 直连 -----
+  - DOMAIN-SUFFIX,elysia.h-e.top
+  - DOMAIN-SUFFIX,deeplx.org
