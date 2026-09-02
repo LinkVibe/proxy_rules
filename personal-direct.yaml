@@ -4,7 +4,7 @@
 # FORMAT: yaml
 # BEHAVIOR: classical
 # UPDATED: 2026-09-02
-# TOTAL: 10
+# TOTAL: 18
 
 payload:
   # ----- 学术期刊 -----
@@ -21,7 +21,8 @@ payload:
   - DOMAIN-SUFFIX,cloudflare.com
   # ----- Hugging Face 下载 -----
   - DOMAIN-SUFFIX,xethub.hf.co
-
+  # ----- CDN -----
+  - DOMAIN-SUFFIX,vimeocdn.com
   # ----- GitHub 代理下载 -----
   - DOMAIN-SUFFIX,gitwarp.com
   - DOMAIN-SUFFIX,gitwarp.top
