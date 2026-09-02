@@ -29,3 +29,7 @@ payload:
   # ----- AI API 直连 -----
   - DOMAIN-SUFFIX,elysia.h-e.top
   - DOMAIN-SUFFIX,deeplx.org
+  # ----- 其他 -----
+  - DOMAIN-SUFFIX,key.xgdan.com
+  - DOMAIN-SUFFIX,776123.xyz
+  - DOMAIN-SUFFIX,182111.xyz
