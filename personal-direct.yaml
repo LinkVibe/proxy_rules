@@ -9,8 +9,10 @@ payload:
   # ----- 系统 / 推送 -----
   - DOMAIN-SUFFIX,service.signalr.net
 
-  # ----- 节点 DNS（须直连，避免解析节点域名时套娃）-----
+  # ----- 节点 / 直连 DNS（须直连，避免解析时套娃）-----
   - DOMAIN-SUFFIX,47258.xyz
+  - DOMAIN-SUFFIX,oaifree.com
+  - DOMAIN-SUFFIX,webn.cc
   - DOMAIN-SUFFIX,cloudflare-gateway.com
   - DOMAIN-SUFFIX,cloudflare-ech.com
   - DOMAIN-SUFFIX,cloudflare.com
