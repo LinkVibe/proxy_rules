@@ -1,4 +1,7 @@
 payload:
+  # ----- 内网 IP -----
+  - IP-CIDR,1.2.3.4/32,no-resolve
+  - IP-CIDR,172.32.0.0/24,no-resolve
   # ----- 学术期刊 -----
   - DOMAIN-SUFFIX,mdpi.com
   - DOMAIN-SUFFIX,springernature.com
