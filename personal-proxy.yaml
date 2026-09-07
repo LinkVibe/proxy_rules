@@ -2,3 +2,5 @@ payload:
   # ----- PickPack -----
   - DOMAIN-SUFFIX,access.pickpackapp.com
   - DOMAIN-SUFFIX,user.pickpackapp.com
+  # ----- Google Play -----
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
