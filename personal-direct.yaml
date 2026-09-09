@@ -8,7 +8,9 @@ payload:
   - DOMAIN-SUFFIX,orcid.org
   # ----- 系统 / 推送 -----
   - DOMAIN-SUFFIX,service.signalr.net
-
+  # ----- Google Play -----
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,services.googleapis.cn
   # ----- 节点 / 直连 DNS（须直连，避免解析时套娃）-----
   - DOMAIN-SUFFIX,47258.xyz
   - DOMAIN-SUFFIX,oaifree.com
